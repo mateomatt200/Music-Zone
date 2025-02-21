@@ -1,0 +1,5 @@
+com\venned\simplezonemusic\manager\ZoneManager.class
+com\venned\simplezonemusic\build\ZoneBuilder.class
+com\venned\simplezonemusic\Main.class
+com\venned\simplezonemusic\build\Zone.class
+com\venned\simplezonemusic\commands\MainCommand.class

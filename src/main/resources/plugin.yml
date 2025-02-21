@@ -1,0 +1,7 @@
+name: ZoneMusic
+version: '${project.version}'
+main: com.chillguy.zonemusic.Main
+api-version: '1.20'
+commands:
+  zone:
+    description: Zone Plugin

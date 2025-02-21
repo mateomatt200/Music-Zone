@@ -1,0 +1,7 @@
+name: SimpleZoneMusic
+version: '1.0-SNAPSHOT'
+main: com.venned.simplezonemusic.Main
+api-version: '1.20'
+commands:
+  zone:
+    description: Zone Plugin
